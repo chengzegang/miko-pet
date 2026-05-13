@@ -7,6 +7,9 @@
   - `assets/miko-showcase.png`
   - `assets/miko-preview.gif`
 - Converted `README.md` from interleaved bilingual paragraphs to a language-switch layout matching `ssh-master-skill`: English first, separator, then full Chinese section with back-link.
+- Split the README into separate language files so each page renders only one language:
+  - `README.md` for English
+  - `README.zh-CN.md` for Chinese
 - Installed assets:
   - `pet/miko/pet.json`
   - `pet/miko/spritesheet.webp`
