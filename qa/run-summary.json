@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625",
+  "spritesheet": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/final/spritesheet.webp",
+  "validation": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/final/validation.json",
+  "contact_sheet": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/qa/contact-sheet.png",
+  "review": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/qa/review.json",
+  "videos": null,
+  "package": "/Users/czg/.codex/pets/miko"
+}

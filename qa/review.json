@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22101,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 583
+        },
+        {
+          "index": 1,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22194,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 508
+        },
+        {
+          "index": 2,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22145,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 576
+        },
+        {
+          "index": 3,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21947,
+          "bbox": [
+            13,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 531
+        },
+        {
+          "index": 4,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22128,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 600
+        },
+        {
+          "index": 5,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22163,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 612
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21733,
+          "bbox": [
+            6,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 622
+        },
+        {
+          "index": 1,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21440,
+          "bbox": [
+            8,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 644
+        },
+        {
+          "index": 2,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21682,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 708
+        },
+        {
+          "index": 3,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21884,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 635
+        },
+        {
+          "index": 4,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21061,
+          "bbox": [
+            5,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 678
+        },
+        {
+          "index": 5,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20895,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 656
+        },
+        {
+          "index": 6,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20811,
+          "bbox": [
+            5,
+            8,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 680
+        },
+        {
+          "index": 7,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20470,
+          "bbox": [
+            5,
+            7,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 621
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21818,
+          "bbox": [
+            5,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 646
+        },
+        {
+          "index": 1,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21383,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 650
+        },
+        {
+          "index": 2,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20806,
+          "bbox": [
+            5,
+            8,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 665
+        },
+        {
+          "index": 3,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22380,
+          "bbox": [
+            6,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 651
+        },
+        {
+          "index": 4,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20994,
+          "bbox": [
+            6,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 674
+        },
+        {
+          "index": 5,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20729,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 641
+        },
+        {
+          "index": 6,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21624,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 691
+        },
+        {
+          "index": 7,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21298,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 593
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21847,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 288
+        },
+        {
+          "index": 1,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22052,
+          "bbox": [
+            6,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 331
+        },
+        {
+          "index": 2,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20114,
+          "bbox": [
+            5,
+            10,
+            187,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 249
+        },
+        {
+          "index": 3,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21320,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 293
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15025,
+          "bbox": [
+            5,
+            38,
+            187,
+            170
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 346
+        },
+        {
+          "index": 1,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16756,
+          "bbox": [
+            5,
+            23,
+            187,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 373
+        },
+        {
+          "index": 2,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20250,
+          "bbox": [
+            5,
+            16,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 489
+        },
+        {
+          "index": 3,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18907,
+          "bbox": [
+            5,
+            18,
+            187,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 394
+        },
+        {
+          "index": 4,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16153,
+          "bbox": [
+            5,
+            34,
+            187,
+            173
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 369
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21718,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 462
+        },
+        {
+          "index": 1,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21325,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 459
+        },
+        {
+          "index": 2,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22607,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 503
+        },
+        {
+          "index": 3,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25471,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 535
+        },
+        {
+          "index": 4,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25519,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 556
+        },
+        {
+          "index": 5,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23376,
+          "bbox": [
+            5,
+            18,
+            187,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 555
+        },
+        {
+          "index": 6,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20144,
+          "bbox": [
+            5,
+            29,
+            187,
+            179
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 428
+        },
+        {
+          "index": 7,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16947,
+          "bbox": [
+            5,
+            40,
+            187,
+            167
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 259
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14203,
+          "bbox": [
+            5,
+            43,
+            187,
+            164
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 333
+        },
+        {
+          "index": 1,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14543,
+          "bbox": [
+            5,
+            42,
+            187,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 288
+        },
+        {
+          "index": 2,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14425,
+          "bbox": [
+            5,
+            43,
+            187,
+            165
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 287
+        },
+        {
+          "index": 3,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14567,
+          "bbox": [
+            5,
+            42,
+            187,
+            165
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 322
+        },
+        {
+          "index": 4,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14240,
+          "bbox": [
+            5,
+            42,
+            187,
+            165
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 304
+        },
+        {
+          "index": 5,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14978,
+          "bbox": [
+            5,
+            41,
+            187,
+            167
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 342
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17344,
+          "bbox": [
+            5,
+            20,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 393
+        },
+        {
+          "index": 1,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17183,
+          "bbox": [
+            5,
+            21,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 371
+        },
+        {
+          "index": 2,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17178,
+          "bbox": [
+            5,
+            22,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 427
+        },
+        {
+          "index": 3,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17273,
+          "bbox": [
+            5,
+            20,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 380
+        },
+        {
+          "index": 4,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17217,
+          "bbox": [
+            5,
+            20,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 388
+        },
+        {
+          "index": 5,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17534,
+          "bbox": [
+            5,
+            20,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 414
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24607,
+          "bbox": [
+            5,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 526
+        },
+        {
+          "index": 1,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23920,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 432
+        },
+        {
+          "index": 2,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22913,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 454
+        },
+        {
+          "index": 3,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22781,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 456
+        },
+        {
+          "index": 4,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24158,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 533
+        },
+        {
+          "index": 5,
+          "file": "/Users/czg/Documents/Codex/2026-05-12/hatch-pet-users-czg-codex-skills/runs/miko-gohei-2026-05-12-1625/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24144,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 541
+        }
+      ]
+    }
+  ]
+}
