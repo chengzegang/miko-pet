@@ -6,6 +6,7 @@
 - Added README showcase media and bilingual introduction:
   - `assets/miko-showcase.png`
   - `assets/miko-preview.gif`
+- Converted `README.md` from interleaved bilingual paragraphs to a language-switch layout matching `ssh-master-skill`: English first, separator, then full Chinese section with back-link.
 - Installed assets:
   - `pet/miko/pet.json`
   - `pet/miko/spritesheet.webp`
