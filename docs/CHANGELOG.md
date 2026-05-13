@@ -3,6 +3,9 @@
 ## 2026-05-13
 
 - Packaged Miko as a standalone distributable Codex pet repository.
+- Added README showcase media and bilingual introduction:
+  - `assets/miko-showcase.png`
+  - `assets/miko-preview.gif`
 - Installed assets:
   - `pet/miko/pet.json`
   - `pet/miko/spritesheet.webp`

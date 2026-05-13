@@ -2,12 +2,26 @@
 
 Miko is a small Codex desktop pet: a chibi shrine-fox companion inspired by Yae Miko, carrying a red ritual gohei/banner wand.
 
+Miko 是一个 Codex 桌面宠物：以八重神子为灵感的迷你狐狸巫女风格伙伴，手持红色御币/幡杖。
+
+## Preview
+
+![Miko showcase](assets/miko-showcase.png)
+
+## Animation Preview
+
+![Miko animated preview](assets/miko-preview.gif)
+
+## Full Contact Sheet
+
 ![Miko contact sheet](assets/contact-sheet.png)
 
 ## What Is Included
 
 - `pet/miko/pet.json` - Codex pet manifest.
 - `pet/miko/spritesheet.webp` - final 8x9 Codex-compatible animated spritesheet.
+- `assets/miko-showcase.png` - showcase image for the pet.
+- `assets/miko-preview.gif` - animated GIF preview.
 - `assets/contact-sheet.png` - visual QA sheet for all animation rows.
 - `qa/validation.json` - atlas validation result.
 - `qa/review.json` - frame/component review result.
@@ -15,6 +29,8 @@ Miko is a small Codex desktop pet: a chibi shrine-fox companion inspired by Yae 
 - `install.sh` - local installer for Codex desktop.
 
 ## Install
+
+安装方式：
 
 Clone this repository, then run:
 
@@ -29,6 +45,8 @@ The script installs the pet into:
 ```
 
 Restart Codex desktop if the pet list does not refresh immediately.
+
+如果 Codex 桌面端没有立刻刷新宠物列表，重启 Codex desktop。
 
 ## Manual Install
 
